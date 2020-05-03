@@ -1,0 +1,92 @@
+{
+    "grocery":[
+        {
+            "serialNo":"1",
+            "name":"Orange",
+            "quantity":"Kilo gram",
+            "unit":"2",
+            "department":"Fruits",
+            "notes":"Fresh"
+        },
+        {
+            "serialNo":"2",
+            "name":"Apple",
+            "quantity":"Kilo gram",
+            "unit":"1",
+            "department":"Fruits",
+            "notes":"Fresh"
+        },
+        {
+            "serialNo":"3",
+            "name":"Onion",
+            "quantity":"Kilo gram",
+            "unit":"2",
+            "department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            
+                "serialNo":"4",
+                "name":"Potato",
+                "quantity":"Kilo gram",
+                "unit":"1",
+                "department":"Vegetables",
+                "notes":"Fresh"
+            },
+        {
+
+            "serialNo":"5",
+            "name":"Rice",
+            "quantity":"Kilo gram",
+            "unit":"5",
+            "department":"Grocery",
+            "notes":"Pavizham"
+        },
+        {
+           
+            "serialNo":"6",
+            "name":"Coconut Oil",
+            "quantity":"Kilo gram",
+            "unit":"1",
+            "department":"Grocery",
+            "notes":"Kera" 
+        },
+        {
+            
+            "serialNo":"7",
+            "name":"Wheat Powder",
+            "quantity":"Kilo gram",
+            "unit":"1",
+            "department":"Grocery",
+            "notes":"Elite"
+        },
+        {
+           
+            "serialNo":"8",
+            "name":"Toothpaste",
+            "quantity":"Gram",
+            "unit":"100",
+            "department":"Hygiene",
+            "notes":"Closeup" 
+        },
+        {
+            
+            "serialNo":"9",
+            "name":"Hand wash",
+            "quantity":"Number",
+            "unit":"2",
+            "department":"Hygiene",
+            "notes":"Lifeboy"
+        },
+        {
+           
+            "serialNo":"10",
+            "name":"Soap",
+            "quantity":"Number",
+            "unit":"2",
+            "department":"Hygiene",
+            "notes":"Dove" 
+        }
+        
+    ]
+}
